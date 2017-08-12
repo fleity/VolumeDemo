@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeDemo", "VolumeDemo.csproj", "{CCF894EB-5621-3A4C-23F4-4843C20681A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VolumeDemo.Editor", "VolumeDemo.Editor.csproj", "{608A7857-6461-9EBF-60E7-4FF71BD8983B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF894EB-5621-3A4C-23F4-4843C20681A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF894EB-5621-3A4C-23F4-4843C20681A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF894EB-5621-3A4C-23F4-4843C20681A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF894EB-5621-3A4C-23F4-4843C20681A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608A7857-6461-9EBF-60E7-4FF71BD8983B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608A7857-6461-9EBF-60E7-4FF71BD8983B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608A7857-6461-9EBF-60E7-4FF71BD8983B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608A7857-6461-9EBF-60E7-4FF71BD8983B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
